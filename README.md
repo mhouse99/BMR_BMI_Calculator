@@ -1,13 +1,13 @@
 ![Git hub capstone image](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/1b59faef-9f37-4f64-a77b-3eeb0f37b34c)
 
 # BMR_BMI_Calulator
-**This is a code create for those looking to calculate their BMR and BMI so that they can better understand their bodies and nutritional needs.**
+**This is a code created for those looking to calculate their BMR and BMI so that they can better understand their bodies and nutritional needs.**
 
 According to [Garnet Health] (https://www.garnethealth.org/news/basal-metabolic-rate-calculator), "a BMR is "the number of calories you burn as your body performs basic (basal) life-sustaining function."
 
 According to the [NIH] (NIH, https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm), "a BMI is "a measure of body fat based on height and weight that applies to adult men and women."
 
-Calculate the calories your bodies needs based on:
+Calculate the calories your body needs based on:
 - Weight
 - Height
 - Age
