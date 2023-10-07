@@ -1,4 +1,5 @@
-![Git hub capstone image](https://github.com/mhouse99/BMI-BMR-Calculator/assets/142447321/cc723152-418b-4646-a483-e8eb356d7f14)
+![Git hub capstone image](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/1b59faef-9f37-4f64-a77b-3eeb0f37b34c)
+
 # BMR_BMI_Calulator
 **This is a code create for those looking to calculate their BMR and BMI so that they can better understand their bodies and nutritional needs.**
 
@@ -30,9 +31,8 @@ To use this file:
 - input user information
 
 In action:
-![Screenshot (1)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/05a59c4b-8007-4324-9aad-be670a8d5dc0)
-![Screenshot (2)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/78b7d798-597c-4377-8166-7aaee223b4eb)
-![Screenshot (3)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/d2598011-c96b-4e6a-adfb-398f7d2ed153)
-![Screenshot (4)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/f6c065da-3a5c-44a3-9ed6-5fe188e501e4)
-![Screenshot (5)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/e425e9b5-719b-46df-a883-ff24d5762f47)
-
+![Screenshot (1)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/56afa5b7-68cf-493b-9dfd-d9fb2b3fc22b)
+![Screenshot (2)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/83ab1a31-5289-4fd4-a76a-933e2d6202a6)
+![Screenshot (3)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/e2923645-e406-4164-a499-2a7bfb55e9c0)
+![Screenshot (4)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/fbe7d5fc-d0bb-4a7e-a2ee-b30d05f9d005)
+![Screenshot (5)](https://github.com/mhouse99/BMR_BMI_Calculator/assets/142447321/aaccb6d9-26e2-4df1-ad9f-b5627d85f000)
