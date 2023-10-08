@@ -18,7 +18,7 @@ def get_height():
     height_unit = input("What is your height unit: inches/cm: ").lower()
     while height_unit != 'inches' and height_unit != 'cm':  # Makes sure the user has entered the correct input
         print("Invalid input. Please enter either 'inches' or 'cm'.")
-        height_unit = input("what is your height unit: inches/cm: ")
+        height_unit = input("what is your height unit: inches/cm: ").lower()
     feet = int(input("What is your height (feet): "))
     inches = float(input("What is your height (inches): "))
     height = feet * 12 + inches     # Converts feet and inches to only inches
